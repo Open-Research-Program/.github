@@ -22,7 +22,9 @@ We have big goals in mind and are always interested in onboarding new students, 
 
 Like open-source software development, where a community of volunteers who believe in the good of the software contribute their precious time to building upon it,  we can see a world where a similar model is built for open science development. We can see a world where students on the east coast work with faculty in Germany to interrogate a research question, data process and analyze data in digestible batches with other students in other parts of the world, all in the comfort of their homes.
 
-🌈 Contribution guidelines - how can you get involved?  Start by Create asking any and all questions into one of the discussion boards! All questions are welcomed and serve a great step toward your first contribution.
+🌈 Contribution guidelines - how can you get involved?  Start by Create asking any and all questions into one of the discussion boards! All questions are welcomed and serve a great step toward your first contribution. 
+
+Or email our helpdesk at: openresearchprogram@gmail.com 
 
 <!--
 

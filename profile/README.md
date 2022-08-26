@@ -1,6 +1,6 @@
 ## Open Research Program
 
-We are driving a new open science initiative by fostering open source communities aimed at powering a combined, transparent, and free undergraduate graduate student-based research program:  The Open Research Program. 
+We are driving a new open science initiative aimed at making a community driven free and open undergraduate graduate student-based research program:  The Open Research Program. 
 
 To the best of our knowledge, this is the very first instance of an Open Source Research Program. We are excited to pull a community together to ratify and bolster operations as a public good. 
 
@@ -22,13 +22,13 @@ We have big goals in mind and are always interested in onboarding new students, 
 
 Like open-source software development, where a community of volunteers who believe in the good of the software contribute their precious time to building upon it,  we can see a world where a similar model is built for open science development. We can see a world where students on the east coast work with faculty in Germany to interrogate a research question, data process and analyze data in digestible batches with other students in other parts of the world, all in the comfort of their homes.
 
+🌈 Contribution guidelines - how can you get involved?  Start by Create asking any and all questions into one of the discussion boards! All questions are welcomed and serve a great step toward your first contribution.
 
 <!--
 
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
